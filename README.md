@@ -4,7 +4,7 @@ Testing an implementation of the FizzBuzz function with Jest
 
 ### Objective
 
-This is a challenged given to us on day 5 of the Futureproof Bootcamp (Auguste Cohort).
+This is a challeng given to us on day 5 of the Futureproof Bootcamp (Auguste Cohort).
 We were required to create a Fizzbuzz function and to test it with Jest.
 
 ### Tools
